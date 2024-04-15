@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "text": "What is the capital of France?",
+    "options": [
+      { "id": 1, "text": "Paris" },
+      { "id": 2, "text": "London" },
+      { "id": 3, "text": "Berlin" },
+      { "id": 4, "text": "Rome" }
+    ],
+    "ans": "Paris"
+  },
+  {
+    "id": 2,
+    "text": "Which planet is known as the Red Planet?",
+    "options": [
+      { "id": 1, "text": "Mars" },
+      { "id": 2, "text": "Venus" },
+      { "id": 3, "text": "Jupiter" },
+      { "id": 4, "text": "Mercury" }
+    ],
+    "ans": "Mars"
+  },
+  {
+    "id": 3,
+    "text": "What is the largest mammal in the world?",
+    "options": [
+      { "id": 1, "text": "Elephant" },
+      { "id": 2, "text": "Blue whale" },
+      { "id": 3, "text": "Giraffe" },
+      { "id": 4, "text": "Hippopotamus" }
+    ],
+    "ans": "Blue whale"
+  },
+  {
+    "id": 4,
+    "text": "Who wrote 'To Kill a Mockingbird'?",
+    "options": [
+      { "id": 1, "text": "Harper Lee" },
+      { "id": 2, "text": "J.K. Rowling" },
+      { "id": 3, "text": "Stephen King" },
+      { "id": 4, "text": "Ernest Hemingway" }
+    ],
+    "ans": "Harper Lee"
+  },
+  {
+    "id": 5,
+    "text": "Which gas makes up the majority of Earth's atmosphere?",
+    "options": [
+      { "id": 1, "text": "Oxygen" },
+      { "id": 2, "text": "Nitrogen" },
+      { "id": 3, "text": "Carbon dioxide" },
+      { "id": 4, "text": "Helium" }
+    ],
+    "ans": "Nitrogen"
+  },
+  {
+    "id": 6,
+    "text": "Who painted the Mona Lisa?",
+    "options": [
+      { "id": 1, "text": "Leonardo da Vinci" },
+      { "id": 2, "text": "Pablo Picasso" },
+      { "id": 3, "text": "Vincent van Gogh" },
+      { "id": 4, "text": "Michelangelo" }
+    ],
+    "ans": "Leonardo da Vinci"
+  },
+  {
+    "id": 7,
+    "text": "What is the chemical symbol for water?",
+    "options": [
+      { "id": 1, "text": "H2O" },
+      { "id": 2, "text": "CO2" },
+      { "id": 3, "text": "NaCl" },
+      { "id": 4, "text": "N2" }
+    ],
+    "ans": "H2O"
+  },
+  {
+    "id": 8,
+    "text": "Which country is famous for its tulips?",
+    "options": [
+      { "id": 1, "text": "Netherlands" },
+      { "id": 2, "text": "Italy" },
+      { "id": 3, "text": "France" },
+      { "id": 4, "text": "Japan" }
+    ],
+    "ans": "Netherlands"
+  },
+  {
+    "id": 9,
+    "text": "What is the chemical symbol for gold?",
+    "options": [
+      { "id": 1, "text": "Au" },
+      { "id": 2, "text": "Ag" },
+      { "id": 3, "text": "Fe" },
+      { "id": 4, "text": "Cu" }
+    ],
+    "ans": "Au"
+  },
+  {
+    "id": 10,
+    "text": "Who developed the theory of relativity?",
+    "options": [
+      { "id": 1, "text": "Albert Einstein" },
+      { "id": 2, "text": "Isaac Newton" },
+      { "id": 3, "text": "Galileo Galilei" },
+      { "id": 4, "text": "Stephen Hawking" }
+    ],
+    "ans": "Albert Einstein"
+  }
+]
